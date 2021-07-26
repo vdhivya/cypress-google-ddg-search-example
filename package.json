@@ -1,0 +1,23 @@
+{
+  "name": "cypress-google-ddg-search-example",
+  "version": "1.0.0",
+  "description": "An example to search for a term in Google and DuckDuckGo search engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdhivya/cypress-google-ddg-search-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdhivya/cypress-google-ddg-search-example/issues"
+  },
+  "homepage": "https://github.com/vdhivya/cypress-google-ddg-search-example#readme",
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  }
+}
